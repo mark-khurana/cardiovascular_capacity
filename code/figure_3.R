@@ -234,7 +234,7 @@ palette <- c(
 #palette <- c("Yes" = "#2E5736", "No" = "#A56441", "Unknown" = "grey50")
 
 # Plot
-ggplot(availability_long, aes(x = Service, y = iso3, fill = Availability)) +
+figure_3_v1 <- ggplot(availability_long, aes(x = Service, y = iso3, fill = Availability)) +
   geom_tile(color = "white", size = 0.5) +
   scale_fill_manual(values = palette, drop = FALSE) +
   theme_minimal(base_size = 12) +
@@ -251,6 +251,7 @@ ggplot(availability_long, aes(x = Service, y = iso3, fill = Availability)) +
     y = "Country",
     fill = "General Public Sector Availability"
   )
+figure_3_v1
 
 #General availability of alteplase for acute stroke management in the public health system
 #General availability of coronary bypass or stenting in the public health system
@@ -337,11 +338,31 @@ p_stroke <- p_stroke + theme(legend.position = "none")
 p_thrombolysis <- p_thrombolysis + theme(legend.position = "none")
 
 # Arrange plots with common legend on top 
-final_plot_3 <- plot_grid(
+figure_3_v2 <- plot_grid(
   p_statins, p_alteplase, p_coronary,
   p_stroke, p_thrombolysis, legend,
   ncol = 3,
   rel_heights = c(1, 1)
 )
-final_plot_3
+figure_3_v2
+
+
+
+
+
+
+
+# Save Plots --------
+setwd(dir="~/Desktop/cardiovascular_capacity/analysis/figures/")
+ggsave("figure_3_v1.pdf",
+       figure_3_v1,
+       width = 6, height = 8, units = "in", device = cairo_pdf)
+ggsave("figure_3_v2.pdf",
+       figure_3_v2,
+       width = 7, height = 5, units = "in", device = cairo_pdf)
+
+
+
+
+
 

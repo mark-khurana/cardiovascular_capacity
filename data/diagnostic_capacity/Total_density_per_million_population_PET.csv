@@ -1,0 +1,72 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BFA,Burkina Faso,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CPV,Cabo Verde,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,COM,Comoros,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ETH,Ethiopia,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,SEN,Senegal,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,UGA,Uganda,Year,2021,true,,,,,,,,,,,,,0,,,,,,0,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2021,true,,,,,,,,,,,,,0.017,,,,,,0.02,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZAF,South Africa,Year,2021,true,,,,,,,,,,,,,0.051,,,,,,0.05,,WHO MD Survey 2021,EN,2023-06-18T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,AGO,Angola,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BEN,Benin,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BWA,Botswana,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BDI,Burundi,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CMR,Cameroon,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CAF,Central African Republic,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,COM,Comoros,Year,2013,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ERI,Eritrea,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,SWZ,Eswatini,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ETH,Ethiopia,Year,2013,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GAB,Gabon,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GMB,Gambia,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,Only private sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GIN,Guinea,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,KEN,Kenya,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MDG,Madagascar,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MWI,Malawi,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MLI,Mali,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MUS,Mauritius,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,NAM,Namibia,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,NER,Niger,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,SEN,Senegal,Year,2013,false,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,UGA,Uganda,Year,2013,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZMB,Zambia,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2013,false,,,,,,,,,,,,,0.02,,,,,,0.02,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZAF,South Africa,Year,2013,false,,,,,,,,,,,,,0.057,,,,,,0.06,,Only public sector data,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CPV,Cabo Verde,Year,2013,false,,,,,,,,,,,,,2,,,,,,2,,,EN,2014-03-04T23:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MWI,Malawi,Year,2010,false,,,,,,,,,,,,,0,,,,,,0,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,AGO,Angola,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BEN,Benin,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BWA,Botswana,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,BDI,Burundi,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CMR,Cameroon,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CAF,Central African Republic,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,COM,Comoros,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,SWZ,Eswatini,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ETH,Ethiopia,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GAB,Gabon,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GMB,Gambia,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only private sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GIN,Guinea,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MDG,Madagascar,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MLI,Mali,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,MUS,Mauritius,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,NAM,Namibia,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,NER,Niger,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,SEN,Senegal,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,SYC,Seychelles,Year,2010,true,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,UGA,Uganda,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZMB,Zambia,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,,,,,,,,,,,,,0,,,,,,0.00,,,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010,false,,,,,,,,,,,,,0.02,,,,,,0.02,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,ZAF,South Africa,Year,2010,false,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,2013-06-10T22:00:00.000Z
+DEVICES10,Total density per million population: Positron Emission tomography,text,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,false,,,,,,,,,,,,,2.02,,,,,,2.02,,,EN,2013-06-10T22:00:00.000Z

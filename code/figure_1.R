@@ -312,8 +312,23 @@ figure_1_v2 <- (panel_a_plot + panel_b_plot) / (panel_c_plot + panel_d_plot) +
   theme(plot.tag = element_text(face = "bold", size = 14, hjust = 0, vjust = 1))
 figure_1_v2
 
-# Save
+
+
+
+
+
+
+
+
+# Save Plots --------
 setwd(dir="~/Desktop/cardiovascular_capacity/analysis/figures/")
+ggsave("figure_2_v1.pdf",
+       figure_2_v1,
+       width = 12, height = 6, units = "in", device = cairo_pdf)
+ggsave("figure_2_v2.pdf",
+       figure_2_v2,
+       width = 7, height = 5, units = "in", device = cairo_pdf)
+
 
 
 

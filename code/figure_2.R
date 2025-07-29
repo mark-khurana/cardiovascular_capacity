@@ -19,6 +19,7 @@ library(countrycode)
 library(forcats)
 
 
+
 #iso3 codes for sub-saharan africa
 iso3_subsaharan <- c(
   "BFA", "CAF", "STP", "COD", "ETH", "NGA", "SOM", "GAB", "MRT", "SWZ", "LSO",
@@ -96,10 +97,11 @@ cardio_all <- cardio_all %>%
   mutate(ISO3 = fct_reorder(ISO3, Value)) %>%
   ungroup()
 
-ggplot(cardio_all, aes(x = Value, y = ISO3, color = Measure)) +
+figure_2_v1 <- ggplot(cardio_all, aes(x = Value, y = ISO3, color = Measure)) +
   geom_point() +
   geom_errorbarh(aes(xmin = Lower.bound, xmax = Upper.bound), height = 0) +
   facet_wrap(~ Measure, scales = "free_x", nrow = 1) +
+  scale_color_viridis_d(option = "magma", begin = 0.2, end = 0.9) +  # skips yellow hues
   theme_classic() +
   labs(
     x = "Burden in 2050",
@@ -110,8 +112,10 @@ ggplot(cardio_all, aes(x = Value, y = ISO3, color = Measure)) +
     axis.text.y = element_text(angle = 0, hjust = 1),
     strip.background = element_rect(fill = "lightgray", color = "black", size = 1),
     panel.border = element_rect(color = "black", fill = NA, size = 0.8),
-    panel.spacing = unit(1, "lines")  # adds space between facets
+    panel.spacing = unit(1, "lines")
   )
+
+figure_2_v1
 
 
 
@@ -149,7 +153,7 @@ make_ssa_map <- function(data, varname, title) {
       axis.text = element_blank(),
       axis.ticks = element_blank(),
       panel.grid = element_blank(),
-      plot.title = element_text(hjust = 0.5, size = 11)
+      plot.title = element_text(hjust = 0.5, size = 9)
     )
 }
 
@@ -160,6 +164,17 @@ p2 <- make_ssa_map(ischemic_burden_ssa, "Value", "Ischemic Heart Disease (DALYs/
 p3 <- make_ssa_map(hypertensive_burden_ssa, "Value", "Hypertensive Heart Disease (DALYs/100k)")
 p4 <- make_ssa_map(high_LDL_burden_ssa, "Value", "High LDL Exposure (per 100)")
 
-plot_grid(p1, p2, p3, p4, ncol = 2)
+figure_2_v2 <- plot_grid(p1, p2, p3, p4, ncol = 2)
+
+
+
+# Save Plots --------
+setwd(dir="~/Desktop/cardiovascular_capacity/analysis/figures/")
+ggsave("figure_2_v1.pdf",
+       figure_2_v1,
+       width = 12, height = 6, units = "in", device = cairo_pdf)
+ggsave("figure_2_v2.pdf",
+       figure_2_v2,
+       width = 7, height = 5, units = "in", device = cairo_pdf)
 
 
