@@ -1,0 +1,377 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1049485.069849809,1257022.570316074,883506.6885205633
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2096.3540585238875,2510.911724847446,1764.8110348803136
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,342514.61071810644,431593.11803314567,271402.8367221374
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2581.113557239279,3252.3892800688486,2045.2311212885588
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,81119.01158348843,109919.10676036589,56925.811727082684
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,611.2947418769008,828.3258225510026,428.98019473554825
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,537332.3045269933,633299.2350308141,451758.90367155324
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2762.940716727041,3256.3987454263006,2322.925792069887
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,149417.6127942719,178679.68035371386,121750.91095780804
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,768.2992492864536,918.7636029730802,626.0382008486471
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,928164.2783812145,1146936.9330958528,713995.6845699097
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2837.8629230540596,3506.760466143719,2183.0422993604384
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,597053.3899073465,732769.8396861207,483753.74085567443
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3828.4006568056575,4698.635972868459,3101.9054083445662
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,160441.79559874578,206667.3504324812,124310.10275962666
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1028.7781394970987,1325.1836996667546,797.0960170352378
+2,DALYs (Disability-Adjusted Life Years),166,Sub-Saharan Africa,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,31201634.330285147,35035162.67884482,27742229.640772954
+2,DALYs (Disability-Adjusted Life Years),166,Sub-Saharan Africa,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2753.5114981246934,3091.816353389932,2448.222663302583
+2,DALYs (Disability-Adjusted Life Years),166,Sub-Saharan Africa,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,8774473.887282409,9896944.536977548,7793097.030232035
+2,DALYs (Disability-Adjusted Life Years),166,Sub-Saharan Africa,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,774.33811584594,873.3949731735415,687.732637707289
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,169811.96182828833,219390.06592626774,133974.52190999902
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3110.404699885014,4018.514860897556,2453.9789666589263
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,47493.17747612535,63559.719107299534,35855.99655048901
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,869.9210635325478,1164.2080269623384,656.7656305771675
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1556691.6542483706,1931280.1698040138,1286111.915784751
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2663.3855562316717,3304.2791070761273,2200.4434152712615
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,544163.1320598166,649306.0380159942,443401.9394722313
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2257.5496747930547,2693.752201505343,1839.5254020041011
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,124016.60306095643,161037.7863556841,95312.5221252327
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,514.5031432934813,668.0915718059063,395.41957301119055
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,615649.3424374323,740612.7502345401,502931.2407017777
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2704.827662026202,3253.848766820165,2209.6057579815815
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,164843.71954074112,214923.21382104594,124913.57011194322
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,724.2334585460858,944.2554614826321,548.80214516849
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1354067.9639708397,1638771.220422714,1088704.1873120796
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3953.951869315695,4785.300814125671,3179.0752540447247
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,319862.13583929266,397101.4784994363,252764.43603989237
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,934.0147788566376,1159.5578471677695,738.0858575559522
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,526407.6714461261,666968.1280480502,397447.1001537125
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2102.4193009003443,2663.803628927742,1587.363748241946
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,108963.4026208026,151784.08348607935,75198.0599245406
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,435.18887202462827,606.2103650844333,300.33348895029354
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,70779.0076961841,89285.12248847054,53026.45099385735
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3897.34129710239,4916.353116800222,2919.823038268988
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,24694.764180158916,32123.91445873725,18136.235197945014
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1359.7806382742904,1768.8558023026799,998.6449473029808
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,545222.0084213837,696333.7685168858,401153.77815725346
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,932.8349761535053,1191.376144609523,686.3447720400808
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,39302.339577005405,51025.82974034403,30024.149702186834
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3122.4882952956827,4053.894954772421,2385.355605551128
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,271728.05634920776,358057.2268193147,201855.25638766098
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2809.2781346821957,3701.7978628447163,2086.8936603725824
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,72728.85622519958,99768.59445926719,51569.69935265533
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,751.911997233459,1031.464084747288,533.1566815366573
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,493092.26451078634,641261.248916815,368202.7545043982
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2282.145610258134,2967.906109206756,1704.1279297107762
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,104973.5351483809,151080.78813755268,70905.84307903802
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,485.84191980751496,699.2370034125985,328.16872251083305
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,287317.8489288539,366758.0740831232,216394.6905802653
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,878.4745218043785,1121.3630651531385,661.6269161042512
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,555827.9808092053,708069.1958000278,430488.11282154825
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2848.1694461080033,3628.282704069484,2205.903862677082
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,138713.61959951135,179602.93337582154,102916.16131845761
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,710.7952581429905,920.3199639709727,527.3621989148677
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,26535.045564053427,32893.464609237504,21146.68432310772
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3564.7457392392093,4418.94239569126,2840.867661518328
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,7455.148427611807,9853.72745858203,5445.159886260614
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1001.5324273166773,1323.7600398617478,731.5084670636098
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,141467.27475264887,176269.5252047317,111373.4679505714
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3217.919244658357,4009.5569692345166,2533.3832611755593
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,43800.334949688346,56811.81148248984,32045.21352300438
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,996.3148085203713,1292.283475546231,728.9241237958547
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,237921.1203117851,309617.91648028395,177606.6010186929
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4338.352773358861,5645.702007806565,3238.5527148096603
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,73539.45775021394,107584.77167072674,51644.83343411511
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1340.9490929761093,1961.7455227902183,941.7133967129005
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,95338.37597253772,120074.1942364127,74441.77574311574
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3921.501052111003,4938.945878049232,3061.972672806261
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,86369.95355060021,104656.61233345736,67890.79220111946
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3607.534606981311,4371.339051620356,2835.6896384971324
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,26630.602218861255,33958.797110142266,20123.609630601673
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1112.3175961072156,1418.404557952248,840.5309390058544
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,233398.03306977914,292674.7640154732,182387.60639343917
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4328.917513270952,5428.344425080228,3382.808728658305
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,84768.17188454872,108163.69285984179,64182.01687248018
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1572.2258624573642,2006.1510294777943,1190.4070193824891
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,812224.1252753683,1095454.4485218194,594615.1758285573
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,902.2931611393467,1216.9314189058437,660.5531527124755
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,812845.7093694449,1009089.2520923095,656269.4957443657
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,1876.5894373929996,2329.6502768430664,1515.10722096628
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,230375.95652552307,290151.00759902503,181841.3800751667
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,531.8611904594685,669.8618321202064,419.81105294230673
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,96730.20520785423,123885.1495100764,73349.61551949498
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,5160.637356790767,6609.376348778786,3913.2633404711332
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,20703.95122740286,32850.62665090114,13400.00401878589
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1104.5731155818305,1752.608409382983,714.9014226931251
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,24903.496484445775,29175.825498345024,20926.04862270349
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4452.921087600645,5216.843694654731,3741.7253135676133
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,9734.262860577192,11664.52345792958,7915.814260389758
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1740.5549614763902,2085.6991914797377,1415.4035063965807
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,76524.0674058682,93641.46766968272,62190.333252511795
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3197.4875872011517,3912.722371813547,2598.565723958898
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,22404.3920989424,28919.942173252522,16809.691100508622
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,936.1468628582364,1208.3931141702344,702.3774409884578
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,5315802.657553088,6495784.0761378,4271007.795998011
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2299.5639640118543,2810.012323964704,1847.595979458653
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,1748869.5592406653,2175594.236970789,1379467.7417450144
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,756.5437762203017,941.1406761952248,596.744181977181
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,28314.09018323241,36855.38070008061,21280.57850071862
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1164.627919350072,1515.9521306818683,875.3223466292018
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,458871.2877787617,572292.0867194918,358983.05667977955
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3416.82651795395,4261.375313726623,2673.0433135119483
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,122141.54351625314,160016.13734397385,91782.88346301562
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,909.4848074943684,1191.50488587784,683.4295334292292
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1214771.8535585448,1524682.2540416126,952163.6979422932
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4253.786442734763,5339.004754449493,3334.2071745457397
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,270937.8573893541,351706.60270632623,194927.6921142719
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,948.7475209524159,1231.5767557750466,682.5814835932108
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,505269.48066743807,625261.0479749427,399788.0534856203
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2846.6914844989046,3522.7247418702755,2252.408449365601
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,120806.39564610744,156835.81864677937,89854.35543343052
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,680.6240054406303,883.6140049789732,506.24001299187995
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1974092.738648356,2267008.647112512,1728466.7914470052
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,1812.125012319932,2081.008147262089,1586.6518550137068
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,538380.7122370991,652113.9513093802,437967.5304125232
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,494.20837010092083,598.6101761661004,402.0337550037956
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,217551.5188283257,279364.82872355194,168854.1682140855
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3297.280195778958,4234.142432598884,2559.2076204551045
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,58749.814404587385,78553.12331928787,41914.883027487966
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,890.430922225827,1190.5761873428316,635.275333673897
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,2721359.3384891828,3493117.7221079273,2117830.1707681604
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3023.135910040849,3880.47600856977,2352.680276384097
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,35978.37097757799,49666.954109338265,24484.65187068773
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2379.0311075021878,3284.1739531408225,1619.0212862341502
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,13574.823860259794,19460.82190329497,8957.743740213464
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,897.6206360912624,1286.8259297885359,592.3211760833157
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,7474.58978315002,8854.721101588042,6356.872007751688
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3450.585355338706,4087.7120812203225,2934.599769629965
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,2168.1290246198337,2610.5292563229877,1804.688036321897
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1000.8996450484998,1205.1302188994732,833.1199824671799
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,875877.9944669048,1116681.7824331864,677851.9698768011
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3143.6433391989917,4007.920360514991,2432.901435505398
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,262037.70922563545,351436.0516367205,200518.4924815605
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,940.4884064104161,1261.3510213309899,719.6877045181882
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,324718.0262157256,412524.3979018625,252430.9350653424
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3661.987423290812,4652.21834008572,2846.7742312670416
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,97284.15096333332,124912.4651251466,72878.4327846858
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1097.115985413681,1408.6925867079763,821.8820106690447
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,306152.2239612976,387079.6296551087,234962.25800128485
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3657.3263726189057,4624.093594760727,2806.883620309154
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,87013.77346287502,115027.84169222836,63688.23792710059
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1039.4756057923964,1374.1345843027466,760.8263274476762
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,46111.07178420512,61959.01077444042,33740.824433869784
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3991.4838567303123,5363.319084026827,2920.6858749853377
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,13426.262682091105,19789.14225527775,8924.23058537532
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1162.2091761949514,1712.9951396518468,772.502588574965
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,281468.494532952,360825.4180726011,217788.11497765395
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,562.2353645728422,720.7513963998791,435.0333433490476
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,2441459.206860338,2615780.169251594,2290996.376745519
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4294.231578228215,4600.841076082704,4029.585650656262
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,712623.0543864423,778831.8112108278,653012.8808004416
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1253.4177982252718,1369.8709969973836,1148.5707096163844
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,569504.6007362476,703594.8105958181,462298.00288154115
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3590.9248630743346,4436.41033914793,2914.9499241109083
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,174458.65026825856,221615.42366827733,134823.4323810117
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1100.022552964086,1397.3624337053036,850.1086994487952
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,323819.7316994156,387458.9505692566,271512.4305032952
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2398.8113577648096,2870.2418052644102,2011.3261741264328
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,75681.88066257516,93724.28253351882,60918.66620072513
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,560.6408045538942,694.2963983691327,451.2769731951653
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,340682.9706040861,412054.92334276135,277145.85975437204
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2576.9696127902043,3116.8362022089236,2096.36677064089
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,95297.45662550587,122241.13743641264,74253.8043255311
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,720.842164387233,924.6476160753796,561.6652838316794
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,954342.304810392,1226041.190840821,724681.8523012947
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3002.999799289371,3857.946390364603,2280.334263754353
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,249947.79252357327,342517.1851889512,184489.88267466053
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,786.5030890883938,1077.788371311841,580.5286822666822
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,989473.6044374026,1232514.722252622,773329.2055425083
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3184.387145751806,3966.5575927340465,2488.777437336691
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,120882.49914579107,154433.3157657502,90973.19710858286
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,389.03177881645314,497.0071595592478,292.7757528663245
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,84981.4212375691,101975.38722772288,67197.03356939548
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4117.494026745987,4940.880508593256,3255.8102736780047
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,12618.688590875416,16946.135438338704,9005.916303063654
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1002.5282935075545,1346.33485248462,715.5011265838613
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,23941.693986103066,30348.012065061368,18052.75286826505
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1160.0156898103146,1470.412668813584,874.6865022838858
+4,YLLs (Years of Life Lost),177,Republic of Djibouti,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,12295.875782989757,16607.80862547318,8596.371113834359
+4,YLLs (Years of Life Lost),177,Republic of Djibouti,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,976.8814942319149,1319.4554981121546,682.9636218570099
+4,YLLs (Years of Life Lost),211,Republic of Mali,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,494169.1171371127,595782.0199561464,399419.63920019026
+4,YLLs (Years of Life Lost),211,Republic of Mali,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2050.1413343876197,2471.6990662493063,1657.0576421984215
+4,YLLs (Years of Life Lost),211,Republic of Mali,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,121035.75985877511,157365.72892294344,92556.25478017627
+4,YLLs (Years of Life Lost),211,Republic of Mali,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,502.1366281710388,652.857441496994,383.9847475298661
+4,YLLs (Years of Life Lost),197,Kingdom of Eswatini,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,43257.15694179759,59150.24165978929,30790.776935114834
+4,YLLs (Years of Life Lost),197,Kingdom of Eswatini,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3744.4422118242155,5120.185360506375,2665.3227590947754
+4,YLLs (Years of Life Lost),197,Kingdom of Eswatini,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,13201.527974480769,19553.756809852915,8673.349655998712
+4,YLLs (Years of Life Lost),197,Kingdom of Eswatini,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1142.7556063089241,1692.6196166121867,750.7857396529834
+4,YLLs (Years of Life Lost),178,State of Eritrea,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,200671.96027207715,262540.7488351322,150592.5267648534
+4,YLLs (Years of Life Lost),178,State of Eritrea,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3041.448223468397,3979.1513126698856,2282.4283590770897
+4,YLLs (Years of Life Lost),178,State of Eritrea,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,57760.93931250415,77735.52109979132,40970.46728598438
+4,YLLs (Years of Life Lost),178,State of Eritrea,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,875.4432159814125,1178.1843473736599,620.9614675247988
+4,YLLs (Years of Life Lost),182,Republic of Malawi,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,492260.222385354,587838.6519294549,409844.1295401568
+4,YLLs (Years of Life Lost),182,Republic of Malawi,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2531.1819151667623,3022.642287832583,2107.401739068836
+4,YLLs (Years of Life Lost),182,Republic of Malawi,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,145789.34578214365,175994.5254355895,118284.4122246877
+4,YLLs (Years of Life Lost),182,Republic of Malawi,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,749.6428488160017,904.9566462881728,608.2136062476355
+4,YLLs (Years of Life Lost),168,Republic of Angola,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,855671.2568385645,1075639.290451529,650659.7672813446
+4,YLLs (Years of Life Lost),168,Republic of Angola,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2616.215459552399,3288.7678744503946,1989.3926884485488
+4,YLLs (Years of Life Lost),181,Republic of Madagascar,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1133712.70743137,1446346.7832560642,864514.6808010243
+4,YLLs (Years of Life Lost),181,Republic of Madagascar,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3969.9403066513933,5064.696156800748,3027.2851794876874
+4,YLLs (Years of Life Lost),181,Republic of Madagascar,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,266093.7955413956,345442.9213285584,189359.44593255274
+4,YLLs (Years of Life Lost),181,Republic of Madagascar,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,931.7849904523434,1209.6431203781553,663.0830649821601
+4,YLLs (Years of Life Lost),187,Federal Republic of Somalia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,453153.21254007047,601746.2412665847,331079.3098209247
+4,YLLs (Years of Life Lost),187,Federal Republic of Somalia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2097.2983946497725,2785.021469274797,1532.3119990631837
+4,YLLs (Years of Life Lost),187,Federal Republic of Somalia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,102555.3371414687,148639.07871634845,68578.21555689652
+4,YLLs (Years of Life Lost),187,Federal Republic of Somalia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,474.6499373664899,687.9362046814408,317.39592132474786
+4,YLLs (Years of Life Lost),212,Islamic Republic of Mauritania,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,128572.80233869767,163920.98889009515,99488.5573389658
+4,YLLs (Years of Life Lost),212,Islamic Republic of Mauritania,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2924.612039842832,3728.6680306463536,2263.0402956734692
+4,YLLs (Years of Life Lost),202,Republic of Cameroon,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,873520.594974893,1152500.2220700767,647781.8620716142
+4,YLLs (Years of Life Lost),202,Republic of Cameroon,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2748.6805920291945,3626.537268768586,2038.355411867486
+4,YLLs (Years of Life Lost),202,Republic of Cameroon,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,245645.50512380016,339089.2104070851,181070.83679021985
+4,YLLs (Years of Life Lost),202,Republic of Cameroon,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,772.9652126546647,1067.0016677045242,569.77007494834
+4,YLLs (Years of Life Lost),212,Islamic Republic of Mauritania,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,42822.237658580685,55917.06305530672,31058.58320633227
+4,YLLs (Years of Life Lost),212,Islamic Republic of Mauritania,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,974.0662842471312,1271.9308661671741,706.4815010130679
+4,YLLs (Years of Life Lost),435,Republic of South Sudan,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,250666.91083238844,336570.6620717684,182967.59789794887
+4,YLLs (Years of Life Lost),435,Republic of South Sudan,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2591.5361157435195,3479.6576195967323,1891.6223780346902
+4,YLLs (Years of Life Lost),185,Republic of Rwanda,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,309615.67091040313,396384.748338186,240883.63366496208
+4,YLLs (Years of Life Lost),185,Republic of Rwanda,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2333.194499484542,2987.0668748218923,1815.2452278346727
+4,YLLs (Years of Life Lost),185,Republic of Rwanda,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,78871.80189512136,107229.6472488736,54903.468027620474
+4,YLLs (Years of Life Lost),185,Republic of Rwanda,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,594.3602718978159,808.0586567439591,413.74026459319475
+4,YLLs (Years of Life Lost),214,Federal Republic of Nigeria,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,1713588.953397148,2146924.516304915,1343067.86366837
+4,YLLs (Years of Life Lost),214,Federal Republic of Nigeria,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,741.2817330157845,928.7384369194958,580.9979526094404
+4,YLLs (Years of Life Lost),216,Republic of Senegal,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,520810.1025042452,653123.8258062465,410605.0992852453
+4,YLLs (Years of Life Lost),216,Republic of Senegal,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3283.8890916860664,4118.173201273332,2589.008162572073
+4,YLLs (Years of Life Lost),216,Republic of Senegal,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,170980.48414850788,217810.26776037517,131956.55339739233
+4,YLLs (Years of Life Lost),216,Republic of Senegal,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1078.0915041522462,1373.369600390357,832.0320289383282
+4,YLLs (Years of Life Lost),196,Republic of South Africa,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,2227282.1315433583,2378672.0774974963,2087275.7805772556
+4,YLLs (Years of Life Lost),196,Republic of South Africa,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3917.5199962470897,4183.796608494297,3671.2657513341496
+4,YLLs (Years of Life Lost),198,Republic of Zimbabwe,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,556434.5657031154,688381.385470653,444038.448328779
+4,YLLs (Years of Life Lost),198,Republic of Zimbabwe,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3567.946339167018,4414.010192082832,2847.2446785582565
+4,YLLs (Years of Life Lost),198,Republic of Zimbabwe,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,157640.17020270872,203571.91168776192,120699.62315210294
+4,YLLs (Years of Life Lost),198,Republic of Zimbabwe,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1010.8136748652582,1305.3352574274031,773.9450514189598
+4,YLLs (Years of Life Lost),168,Republic of Angola,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,283856.7614253944,363326.0793793654,213047.89967020857
+4,YLLs (Years of Life Lost),168,Republic of Angola,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,867.8922443689177,1110.8697389728868,651.3941005821661
+4,YLLs (Years of Life Lost),206,Republic of the Gambia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,79992.0717641945,98633.29299425778,62074.10643935709
+4,YLLs (Years of Life Lost),206,Republic of the Gambia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3341.14070125558,4119.754651353982,2592.7359917616423
+4,YLLs (Years of Life Lost),206,Republic of the Gambia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,26203.456378802868,33529.77885092984,19707.30687562698
+4,YLLs (Years of Life Lost),206,Republic of the Gambia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1094.4763985970628,1400.485152493393,823.142639790514
+4,YLLs (Years of Life Lost),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,523572.99445462425,637433.7783221173,424760.4954999296
+4,YLLs (Years of Life Lost),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,480.615576184172,585.1344624194317,389.9103132651465
+4,YLLs (Years of Life Lost),217,Republic of Sierra Leone,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,299879.6819204397,385472.31511948904,229024.07309820686
+4,YLLs (Years of Life Lost),217,Republic of Sierra Leone,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3381.874534318408,4347.140152473617,2582.804795565281
+4,YLLs (Years of Life Lost),217,Republic of Sierra Leone,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,95733.1974400596,123034.99147712368,71415.58976781719
+4,YLLs (Years of Life Lost),217,Republic of Sierra Leone,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1079.6252031416668,1387.5194939581072,805.3848891742779
+4,YLLs (Years of Life Lost),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1741589.8880927144,2017956.0026940461,1499504.5095361248
+4,YLLs (Years of Life Lost),179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,1598.6982453403655,1852.3894418186276,1376.475164828098
+4,YLLs (Years of Life Lost),195,Republic of Namibia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,88333.17993108719,112931.15068113721,67789.70757112913
+4,YLLs (Years of Life Lost),195,Republic of Namibia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3633.360171100973,4645.134990968921,2788.3568064873957
+4,YLLs (Years of Life Lost),195,Republic of Namibia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,27816.66154077946,36246.13011304111,20729.885341889556
+4,YLLs (Years of Life Lost),195,Republic of Namibia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1144.1674602240298,1490.8921609298889,852.6709874078051
+4,YLLs (Years of Life Lost),171,Democratic Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,2520470.1696887184,3271014.3457878316,1932031.4076574855
+4,YLLs (Years of Life Lost),171,Democratic Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2799.969769667745,3633.743177958959,2146.277944704925
+4,YLLs (Years of Life Lost),171,Democratic Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,802225.2388808354,1087087.1126392856,585810.8148159925
+4,YLLs (Years of Life Lost),171,Democratic Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,891.1854797346134,1207.636213667749,650.7724598191858
+4,YLLs (Years of Life Lost),169,Central African Republic,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,225953.8981133708,297274.0681395619,165902.98105796913
+4,YLLs (Years of Life Lost),169,Central African Republic,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4120.137460881112,5420.619137430385,3025.144035292655
+4,YLLs (Years of Life Lost),169,Central African Republic,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,72948.66151518036,107098.01893731173,51132.82562626366
+4,YLLs (Years of Life Lost),169,Central African Republic,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1330.1762684307712,1952.8698707750304,932.3772331547308
+4,YLLs (Years of Life Lost),180,Republic of Kenya,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,927216.8432538065,1130619.3434331613,757113.7664135604
+4,YLLs (Years of Life Lost),180,Republic of Kenya,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,1852.1223868053619,2258.420359987504,1512.340253885185
+4,YLLs (Years of Life Lost),180,Republic of Kenya,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,269891.7869878244,345585.3219893344,205010.74695410253
+4,YLLs (Years of Life Lost),180,Republic of Kenya,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,539.110807069565,690.3091936527527,409.5104578093241
+4,YLLs (Years of Life Lost),435,Republic of South Sudan,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,71097.89230488495,97826.63974411102,50120.62432014687
+4,YLLs (Years of Life Lost),435,Republic of South Sudan,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,735.050170959962,1011.3870599706481,518.1753253269462
+4,YLLs (Years of Life Lost),196,Republic of South Africa,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,693370.8606277917,757168.1885754949,635585.8943537575
+4,YLLs (Years of Life Lost),196,Republic of South Africa,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1219.5555169484612,1331.767303862531,1117.9187473380782
+4,YLLs (Years of Life Lost),166,Sub-Saharan Africa,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,28438980.612658367,31951280.63885474,25108135.028853036
+4,YLLs (Years of Life Lost),166,Sub-Saharan Africa,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2509.7102056571757,2819.6669984527502,2215.766577051042
+4,YLLs (Years of Life Lost),166,Sub-Saharan Africa,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,8590012.778729413,9674281.622939957,7629537.724597642
+4,YLLs (Years of Life Lost),166,Sub-Saharan Africa,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,758.059616521804,853.7452045903182,673.2987005640524
+4,YLLs (Years of Life Lost),213,Republic of the Niger,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,476101.9924142197,615206.6393262517,347207.0277759338
+4,YLLs (Years of Life Lost),213,Republic of the Niger,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,1901.5034779013604,2457.0734484326767,1386.7099516217302
+4,YLLs (Years of Life Lost),213,Republic of the Niger,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,106081.6606996546,149216.67333067162,72619.42721249332
+4,YLLs (Years of Life Lost),213,Republic of the Niger,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,423.6794845975959,595.9563871185951,290.03468922184766
+4,YLLs (Years of Life Lost),203,Republic of Cabo Verde,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,22274.653775757182,26635.418531425144,18436.59787522111
+4,YLLs (Years of Life Lost),203,Republic of Cabo Verde,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3982.865441365746,4762.600983750641,3296.59393464935
+4,YLLs (Years of Life Lost),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,6664.36566108376,8082.708705324699,5574.847904227945
+4,YLLs (Years of Life Lost),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3076.551786774658,3731.3186541600894,2573.5845169636573
+4,YLLs (Years of Life Lost),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,2121.771902596613,2562.0167471836244,1750.954148151453
+4,YLLs (Years of Life Lost),215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,979.4992456941993,1182.734802101566,808.3141572666694
+4,YLLs (Years of Life Lost),214,Federal Republic of Nigeria,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,4789214.332023028,5954880.146550914,3714923.3345699795
+4,YLLs (Years of Life Lost),214,Federal Republic of Nigeria,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2071.767031870718,2576.0226022614233,1607.0393089378063
+4,YLLs (Years of Life Lost),184,Republic of Mozambique,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,911588.7862536666,1140779.3943113335,699699.7976185818
+4,YLLs (Years of Life Lost),184,Republic of Mozambique,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2933.733249820419,3671.3291017490233,2251.818574471845
+4,YLLs (Years of Life Lost),184,Republic of Mozambique,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,115969.6766840512,150099.81067605954,86103.48137130453
+4,YLLs (Years of Life Lost),184,Republic of Mozambique,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,373.2210198165503,483.06079672372067,277.1037226800606
+4,YLLs (Years of Life Lost),203,Republic of Cabo Verde,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,9545.05054390464,11461.598806180014,7748.980995196151
+4,YLLs (Years of Life Lost),203,Republic of Cabo Verde,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1706.7224626756226,2049.414830304429,1385.5725400839633
+4,YLLs (Years of Life Lost),172,Republic of Equatorial Guinea,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,32618.485375022115,46487.098740785834,21112.11959652214
+4,YLLs (Years of Life Lost),172,Republic of Equatorial Guinea,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2156.8622835965525,3073.9094349429693,1396.0162147623137
+4,YLLs (Years of Life Lost),172,Republic of Equatorial Guinea,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,13402.438747293056,19316.943242062356,8809.463515346224
+4,YLLs (Years of Life Lost),172,Republic of Equatorial Guinea,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,886.221855794241,1277.3121079706584,582.5163056013689
+4,YLLs (Years of Life Lost),191,Republic of Zambia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,511514.01068292686,661728.0423108145,383370.0390555184
+4,YLLs (Years of Life Lost),191,Republic of Zambia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2621.096142663186,3390.8217232940583,1964.4617930200393
+4,YLLs (Years of Life Lost),191,Republic of Zambia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,136193.49195115533,177074.43240164046,100435.48488865265
+4,YLLs (Years of Life Lost),191,Republic of Zambia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,697.8816395124744,907.3634388089389,514.6507359137345
+4,YLLs (Years of Life Lost),170,Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,218239.37247430818,277688.5166398307,168461.46134258073
+4,YLLs (Years of Life Lost),170,Republic of the Congo,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4047.764367006669,5150.389088998906,3124.5154928066163
+4,YLLs (Years of Life Lost),218,Togolese Republic,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,282872.7297774138,365506.267682768,210159.3356111278
+4,YLLs (Years of Life Lost),218,Togolese Republic,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3379.227109061997,4366.375964404823,2510.5853246384086
+4,YLLs (Years of Life Lost),218,Togolese Republic,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,85574.52661184376,113692.84296025672,62095.69920234172
+4,YLLs (Years of Life Lost),218,Togolese Republic,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1022.2822129211102,1358.1865503257995,741.8016938777637
+4,YLLs (Years of Life Lost),200,Republic of Benin,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,292780.1976229514,356486.9140151951,241916.4532894132
+4,YLLs (Years of Life Lost),200,Republic of Benin,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2168.8748233492174,2640.805283070158,1792.083307386275
+4,YLLs (Years of Life Lost),200,Republic of Benin,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,73705.36148139507,91743.51836375854,58845.56430644395
+4,YLLs (Years of Life Lost),200,Republic of Benin,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,545.9990264393471,679.6231739719083,435.91972382772525
+4,YLLs (Years of Life Lost),190,Republic of Uganda,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,722023.8773476089,913086.8049238696,568125.3525985449
+4,YLLs (Years of Life Lost),190,Republic of Uganda,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,1666.9121410841165,2108.0126693075254,1311.6118145332211
+4,YLLs (Years of Life Lost),190,Republic of Uganda,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,224646.3260155209,284757.6183043887,175742.6793990602
+4,YLLs (Years of Life Lost),190,Republic of Uganda,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,518.6333860049489,657.4102964038964,405.7311886597223
+4,YLLs (Years of Life Lost),204,Republic of Chad,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,467898.79225305805,591065.4654974886,361816.88309173426
+4,YLLs (Years of Life Lost),204,Republic of Chad,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2636.1447870444094,3330.0666115643216,2038.478632599413
+4,YLLs (Years of Life Lost),204,Republic of Chad,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,118211.90909648828,154176.77269948993,87192.08416662044
+4,YLLs (Years of Life Lost),204,Republic of Chad,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,666.006651632339,868.6329231114494,491.24075965355587
+4,YLLs (Years of Life Lost),173,Gabonese Republic,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,65354.05723039844,84164.86285437166,47849.03104639436
+4,YLLs (Years of Life Lost),173,Gabonese Republic,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3598.624429301754,4634.413598666291,2634.736072083998
+4,YLLs (Years of Life Lost),173,Gabonese Republic,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,24368.664555724114,31853.964091581864,17777.560311457477
+4,YLLs (Years of Life Lost),173,Gabonese Republic,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1341.8244451225767,1753.9913848952094,978.895045561751
+4,YLLs (Years of Life Lost),201,Burkina Faso,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,561615.5677112062,680825.3230815446,452267.75645177
+4,YLLs (Years of Life Lost),201,Burkina Faso,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2467.432706019986,2991.1753979758973,1987.0180214114318
+4,YLLs (Years of Life Lost),201,Burkina Faso,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,161375.32608037247,211272.47414701126,121735.43413435588
+4,YLLs (Years of Life Lost),201,Burkina Faso,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,708.9952280669402,928.216101125175,534.8391478690451
+4,YLLs (Years of Life Lost),170,Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,83897.8984092555,107403.4996637668,63329.60174030746
+4,YLLs (Years of Life Lost),170,Republic of the Congo,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1556.0845863764068,1992.051452044875,1174.5969684334461
+4,YLLs (Years of Life Lost),207,Republic of Ghana,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1247672.7112672748,1531773.7492994675,985357.9706799766
+4,YLLs (Years of Life Lost),207,Republic of Ghana,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3643.2719629098756,4472.862397283455,2877.298698279457
+4,YLLs (Years of Life Lost),207,Republic of Ghana,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,313103.4174470102,388850.7813169762,246677.638331495
+4,YLLs (Years of Life Lost),207,Republic of Ghana,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,914.2789547086567,1135.4653640607335,720.3120782349441
+4,YLLs (Years of Life Lost),208,Republic of Guinea,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,425199.62391130725,539966.5265381511,326706.1273480276
+4,YLLs (Years of Life Lost),208,Republic of Guinea,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3166.1021055313113,4020.674197363523,2432.704309969788
+4,YLLs (Years of Life Lost),208,Republic of Guinea,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,120030.40891439069,158077.10310900226,89897.50311034027
+4,YLLs (Years of Life Lost),208,Republic of Guinea,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,893.7649730163133,1177.0665373262395,669.3906999763146
+4,YLLs (Years of Life Lost),194,Kingdom of Lesotho,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,20377.05583552063,32509.0774529883,13122.54255321054
+4,YLLs (Years of Life Lost),194,Kingdom of Lesotho,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1087.1329729967392,1734.3864739891371,700.0986214249871
+4,YLLs (Years of Life Lost),176,Union of the Comoros,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,24047.74154779386,30419.843544814288,18848.903908962533
+4,YLLs (Years of Life Lost),176,Union of the Comoros,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3230.5987194893983,4086.6335579841802,2532.18144045046
+4,YLLs (Years of Life Lost),176,Union of the Comoros,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,7231.555814702497,9614.963034515727,5260.767724109796
+4,YLLs (Years of Life Lost),176,Union of the Comoros,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,971.4947621364985,1291.6841777224618,706.7370313866091
+4,YLLs (Years of Life Lost),205,Republic of Côte d'Ivoire,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,803068.5961110902,1045830.2669401672,603905.5000501557
+4,YLLs (Years of Life Lost),205,Republic of Côte d'Ivoire,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2882.3206645590685,3753.6247894893168,2167.497659184589
+4,YLLs (Years of Life Lost),189,United Republic of Tanzania,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,1402036.0955036215,1769799.3940431867,1128688.2547679893
+4,YLLs (Years of Life Lost),189,United Republic of Tanzania,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2398.781207497892,3027.997311258231,1931.1030460228637
+4,YLLs (Years of Life Lost),189,United Republic of Tanzania,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,534150.6592037624,683090.2152218625,392027.60028525605
+4,YLLs (Years of Life Lost),189,United Republic of Tanzania,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,913.892707455825,1168.7173936212416,670.7305492352344
+4,YLLs (Years of Life Lost),205,Republic of Côte d'Ivoire,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,257264.75068253733,345998.3778495945,195625.75380583134
+4,YLLs (Years of Life Lost),205,Republic of Côte d'Ivoire,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,923.35761944343,1241.8344823956331,702.127010625246
+4,YLLs (Years of Life Lost),175,Republic of Burundi,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,311593.4592062763,382545.1604436151,250585.23497943854
+4,YLLs (Years of Life Lost),175,Republic of Burundi,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2356.9328237773957,2893.6205770284164,1895.4588038576937
+4,YLLs (Years of Life Lost),175,Republic of Burundi,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,93371.47795556404,120508.90581167612,72015.12176799125
+4,YLLs (Years of Life Lost),175,Republic of Burundi,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,706.2738151136496,911.5447942602915,544.7316023117776
+4,YLLs (Years of Life Lost),209,Republic of Guinea-Bissau,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,80159.27546023592,97169.62901431037,62881.493299323665
+4,YLLs (Years of Life Lost),209,Republic of Guinea-Bissau,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,3883.852883245203,4708.0333703653105,3046.715026441224
+4,YLLs (Years of Life Lost),209,Republic of Guinea-Bissau,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,23670.183463157005,29972.405428552534,17817.003296448565
+4,YLLs (Years of Life Lost),209,Republic of Guinea-Bissau,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,1146.8605443661868,1452.2138900721955,863.264035589093
+4,YLLs (Years of Life Lost),210,Republic of Liberia,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,156760.041611898,207176.71926681153,120034.90093952659
+4,YLLs (Years of Life Lost),210,Republic of Liberia,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2871.3358289615608,3794.805939323993,2198.6502953783015
+4,YLLs (Years of Life Lost),210,Republic of Liberia,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,46593.36147075172,62541.191809658776,34991.51766702645
+4,YLLs (Years of Life Lost),210,Republic of Liberia,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,853.439351042967,1145.5519083978143,640.9311796166854
+4,YLLs (Years of Life Lost),177,Republic of Djibouti,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,35591.55768648337,47401.18270110984,26009.99071099101
+4,YLLs (Years of Life Lost),177,Republic of Djibouti,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2827.674471379479,3765.9243638000544,2066.439108457956
+4,YLLs (Years of Life Lost),193,Republic of Botswana,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,68682.5873523856,85261.13738795785,54552.78757826571
+4,YLLs (Years of Life Lost),193,Republic of Botswana,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,2869.8385744622697,3562.5579992072053,2279.437921191177
+4,YLLs (Years of Life Lost),193,Republic of Botswana,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2021,21783.081698955633,28076.24864901712,16243.355761688297
+4,YLLs (Years of Life Lost),193,Republic of Botswana,3,Both,22,All ages,493,Ischemic heart disease,3,Rate,2021,910.1859807579708,1173.1401583016363,678.713641121849
+4,YLLs (Years of Life Lost),194,Kingdom of Lesotho,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2021,91818.98547587385,118903.45276287892,68504.73563576987
+4,YLLs (Years of Life Lost),194,Kingdom of Lesotho,3,Both,22,All ages,491,Cardiovascular diseases,3,Rate,2021,4898.619676152086,6343.598660428519,3654.7849462261293
